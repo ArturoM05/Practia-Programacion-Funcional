@@ -20,3 +20,6 @@ Al ejecutarse el programa se realizara el cargue desde el archivo y luego se inv
 * Nombre de los estudiantes con la nota maxima por carrera.
 * Nombre de los estudiantes con la nota maxima entre todas las carreras.
 * Promedio de nota por carrera.
+
+## Principios de haskell
+https://youtu.be/t2M-H2I9Zhg
